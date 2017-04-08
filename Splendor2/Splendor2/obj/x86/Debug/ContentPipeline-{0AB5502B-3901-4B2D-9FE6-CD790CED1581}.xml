@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Arial.xnb</Output>
-      <Time>2017-04-04T15:18:58.9335392-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Arial.xnb</Output>
+      <Time>2017-04-05T22:25:31.9711868-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\Card.spritefont</Source>
@@ -16,8 +16,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Card.xnb</Output>
-      <Time>2017-04-04T15:18:58.9365394-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Card.xnb</Output>
+      <Time>2017-04-05T22:25:31.9721869-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\CardCount.spritefont</Source>
@@ -25,8 +25,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardCount.xnb</Output>
-      <Time>2017-04-04T15:18:58.9395395-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardCount.xnb</Output>
+      <Time>2017-04-05T22:25:31.973187-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\CardIcon.spritefont</Source>
@@ -34,8 +34,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardIcon.xnb</Output>
-      <Time>2017-04-04T15:18:58.9425397-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardIcon.xnb</Output>
+      <Time>2017-04-05T22:25:31.9751871-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\CardInfo.spritefont</Source>
@@ -43,8 +43,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardInfo.xnb</Output>
-      <Time>2017-04-04T15:30:30.8391139-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardInfo.xnb</Output>
+      <Time>2017-04-05T22:25:31.9761871-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\CardValue.spritefont</Source>
@@ -52,8 +52,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardValue.xnb</Output>
-      <Time>2017-04-04T15:18:58.94754-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CardValue.xnb</Output>
+      <Time>2017-04-06T00:23:49.9870318-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\CoinCount.spritefont</Source>
@@ -61,8 +61,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CoinCount.xnb</Output>
-      <Time>2017-04-04T15:18:58.9505402-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\CoinCount.xnb</Output>
+      <Time>2017-04-05T22:25:31.9781872-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\Log.spritefont</Source>
@@ -70,8 +70,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Log.xnb</Output>
-      <Time>2017-04-04T15:18:58.9525403-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Log.xnb</Output>
+      <Time>2017-04-05T22:25:31.9791873-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\PlayerBox.spritefont</Source>
@@ -79,8 +79,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerBox.xnb</Output>
-      <Time>2017-04-04T15:18:58.9555405-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerBox.xnb</Output>
+      <Time>2017-04-05T22:25:31.9801874-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\PlayerMessage.spritefont</Source>
@@ -88,8 +88,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerMessage.xnb</Output>
-      <Time>2017-04-04T15:18:58.9575406-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerMessage.xnb</Output>
+      <Time>2017-04-05T22:25:31.9801874-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\PlayerName.spritefont</Source>
@@ -97,8 +97,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerName.xnb</Output>
-      <Time>2017-04-04T15:18:58.9605407-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerName.xnb</Output>
+      <Time>2017-04-05T22:25:31.9811874-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\PlayerScore.spritefont</Source>
@@ -106,8 +106,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerScore.xnb</Output>
-      <Time>2017-04-04T15:18:58.9625409-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\PlayerScore.xnb</Output>
+      <Time>2017-04-05T22:25:31.9821875-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\Title.spritefont</Source>
@@ -115,8 +115,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Title.xnb</Output>
-      <Time>2017-04-04T15:18:58.965541-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\Title.xnb</Output>
+      <Time>2017-04-05T22:25:31.9831875-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Fonts\VictoryMenu.spritefont</Source>
@@ -124,8 +124,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\VictoryMenu.xnb</Output>
-      <Time>2017-04-04T15:18:58.9675411-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Fonts\VictoryMenu.xnb</Output>
+      <Time>2017-04-05T22:25:31.9831875-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\ArrowDown.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\ArrowDown.xnb</Output>
-      <Time>2017-04-04T15:19:57.3538807-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\ArrowDown.xnb</Output>
+      <Time>2017-04-05T22:25:31.9851876-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\ArrowUp.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\ArrowUp.xnb</Output>
-      <Time>2017-04-04T15:19:57.3578809-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\ArrowUp.xnb</Output>
+      <Time>2017-04-05T22:25:31.9851876-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Background.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background.xnb</Output>
-      <Time>2017-04-04T15:19:57.3618811-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background.xnb</Output>
+      <Time>2017-04-05T22:25:31.9861877-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Background1.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background1.xnb</Output>
-      <Time>2017-04-04T15:19:57.3648813-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background1.xnb</Output>
+      <Time>2017-04-05T22:25:32.0071889-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Background2.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background2.xnb</Output>
-      <Time>2017-04-04T15:19:57.3678815-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background2.xnb</Output>
+      <Time>2017-04-05T22:25:32.008189-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Background3.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background3.xnb</Output>
-      <Time>2017-04-04T15:19:57.3698816-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0101891-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Background4.png</Source>
@@ -187,8 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background4.xnb</Output>
-      <Time>2017-04-04T15:19:57.3718817-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Background4.xnb</Output>
+      <Time>2017-04-05T22:25:32.0111891-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardActionBuy.png</Source>
@@ -196,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionBuy.xnb</Output>
-      <Time>2017-04-04T15:19:57.499889-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionBuy.xnb</Output>
+      <Time>2017-04-05T22:25:32.0121892-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardActionMenu.png</Source>
@@ -205,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionMenu.xnb</Output>
-      <Time>2017-04-04T15:19:57.5038892-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionMenu.xnb</Output>
+      <Time>2017-04-05T22:25:32.0131892-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardActionMenu2.png</Source>
@@ -214,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionMenu2.xnb</Output>
-      <Time>2017-04-04T15:19:57.5068894-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionMenu2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0141893-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardActionNeutral.png</Source>
@@ -223,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionNeutral.xnb</Output>
-      <Time>2017-04-04T15:19:57.5098896-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionNeutral.xnb</Output>
+      <Time>2017-04-05T22:25:32.0151894-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardActionReserve.png</Source>
@@ -232,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionReserve.xnb</Output>
-      <Time>2017-04-04T15:19:57.5128897-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardActionReserve.xnb</Output>
+      <Time>2017-04-05T22:25:32.0151894-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBack1.png</Source>
@@ -241,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack1.xnb</Output>
-      <Time>2017-04-04T15:19:57.5158899-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack1.xnb</Output>
+      <Time>2017-04-05T22:25:32.0161894-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBack2.png</Source>
@@ -250,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack2.xnb</Output>
-      <Time>2017-04-04T15:19:57.5188901-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0171895-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBack3.png</Source>
@@ -259,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack3.xnb</Output>
-      <Time>2017-04-04T15:19:57.5218903-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBack3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0181895-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBackSmall1.png</Source>
@@ -268,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall1.xnb</Output>
-      <Time>2017-04-04T15:19:57.5248904-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall1.xnb</Output>
+      <Time>2017-04-05T22:25:32.0181895-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBackSmall2.png</Source>
@@ -277,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall2.xnb</Output>
-      <Time>2017-04-04T15:19:57.5278906-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0191896-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBackSmall3.png</Source>
@@ -286,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall3.xnb</Output>
-      <Time>2017-04-04T15:19:57.5308908-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBackSmall3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0201896-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlack.png</Source>
@@ -295,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack.xnb</Output>
-      <Time>2017-04-04T15:19:57.5358911-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack.xnb</Output>
+      <Time>2017-04-05T22:25:32.0211897-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlack3.png</Source>
@@ -304,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack3.xnb</Output>
-      <Time>2017-04-04T15:19:57.5388912-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0221898-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlack4.png</Source>
@@ -313,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack4.xnb</Output>
-      <Time>2017-04-04T15:19:57.5418914-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack4.xnb</Output>
+      <Time>2017-04-05T22:25:32.0231898-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlack5.png</Source>
@@ -322,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack5.xnb</Output>
-      <Time>2017-04-04T15:19:57.5448916-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlack5.xnb</Output>
+      <Time>2017-04-05T22:25:32.0241899-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlue.png</Source>
@@ -331,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue.xnb</Output>
-      <Time>2017-04-04T15:19:57.5478918-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue.xnb</Output>
+      <Time>2017-04-05T22:25:32.0241899-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlue3.png</Source>
@@ -340,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue3.xnb</Output>
-      <Time>2017-04-04T15:19:57.5508919-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0251899-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlue4.png</Source>
@@ -349,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue4.xnb</Output>
-      <Time>2017-04-04T15:19:57.5538921-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue4.xnb</Output>
+      <Time>2017-04-05T22:25:32.02619-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardBlue5.png</Source>
@@ -358,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue5.xnb</Output>
-      <Time>2017-04-04T15:19:57.5558922-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardBlue5.xnb</Output>
+      <Time>2017-04-05T22:25:32.02719-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardCountMarker.png</Source>
@@ -367,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardCountMarker.xnb</Output>
-      <Time>2017-04-04T15:19:57.5598924-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardCountMarker.xnb</Output>
+      <Time>2017-04-05T22:25:32.0281901-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardGreen.png</Source>
@@ -376,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen.xnb</Output>
-      <Time>2017-04-04T15:19:57.5628926-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen.xnb</Output>
+      <Time>2017-04-05T22:25:32.0291902-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardGreen2.png</Source>
@@ -385,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen2.xnb</Output>
-      <Time>2017-04-04T15:19:57.5658928-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0301902-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardGreen3.png</Source>
@@ -394,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen3.xnb</Output>
-      <Time>2017-04-04T15:19:57.569893-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0311903-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardGreen4.png</Source>
@@ -403,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen4.xnb</Output>
-      <Time>2017-04-04T15:19:57.5728932-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen4.xnb</Output>
+      <Time>2017-04-05T22:25:32.0321903-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardGreen5.png</Source>
@@ -412,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen5.xnb</Output>
-      <Time>2017-04-04T15:19:57.5758934-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardGreen5.xnb</Output>
+      <Time>2017-04-05T22:25:32.0321903-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardHighlight.png</Source>
@@ -421,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardHighlight.xnb</Output>
-      <Time>2017-04-04T15:19:57.5788935-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardHighlight.xnb</Output>
+      <Time>2017-04-05T22:25:32.0331904-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardIconTest.png</Source>
@@ -430,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardIconTest.xnb</Output>
-      <Time>2017-04-04T15:19:57.5818937-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardIconTest.xnb</Output>
+      <Time>2017-04-05T22:25:32.0341904-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardInfoBox.png</Source>
@@ -439,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardInfoBox.xnb</Output>
-      <Time>2017-04-04T15:19:57.5848939-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardInfoBox.xnb</Output>
+      <Time>2017-04-05T22:25:32.0351905-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardInfoBox2.png</Source>
@@ -448,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardInfoBox2.xnb</Output>
-      <Time>2017-04-04T15:19:57.587894-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardInfoBox2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0361906-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardRed.png</Source>
@@ -457,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed.xnb</Output>
-      <Time>2017-04-04T15:19:57.5908942-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed.xnb</Output>
+      <Time>2017-04-05T22:25:32.0371906-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardRed3.png</Source>
@@ -466,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed3.xnb</Output>
-      <Time>2017-04-04T15:19:57.5938944-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0381907-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardRed4.png</Source>
@@ -475,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed4.xnb</Output>
-      <Time>2017-04-04T15:19:57.5958945-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed4.xnb</Output>
+      <Time>2017-04-05T22:25:32.0391907-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardRed5.png</Source>
@@ -484,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed5.xnb</Output>
-      <Time>2017-04-04T15:19:57.5988947-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardRed5.xnb</Output>
+      <Time>2017-04-05T22:25:32.0401908-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardWhite.png</Source>
@@ -493,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite.xnb</Output>
-      <Time>2017-04-04T15:19:57.6018948-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite.xnb</Output>
+      <Time>2017-04-05T22:25:32.0411908-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardWhite3.png</Source>
@@ -502,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite3.xnb</Output>
-      <Time>2017-04-04T15:19:57.6058951-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0421909-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardWhite4.png</Source>
@@ -511,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite4.xnb</Output>
-      <Time>2017-04-04T15:19:57.6078952-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite4.xnb</Output>
+      <Time>2017-04-05T22:25:32.044191-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CardWhite5.png</Source>
@@ -520,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite5.xnb</Output>
-      <Time>2017-04-04T15:19:57.6108954-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CardWhite5.xnb</Output>
+      <Time>2017-04-05T22:25:32.0451911-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Coin.png</Source>
@@ -529,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Coin.xnb</Output>
-      <Time>2017-04-04T15:19:57.6148956-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Coin.xnb</Output>
+      <Time>2017-04-05T22:25:32.0461911-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinActionCancel.png</Source>
@@ -538,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionCancel.xnb</Output>
-      <Time>2017-04-04T15:19:57.6178958-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionCancel.xnb</Output>
+      <Time>2017-04-05T22:25:32.0471912-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinActionNeutral.png</Source>
@@ -547,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionNeutral.xnb</Output>
-      <Time>2017-04-04T15:19:57.6208959-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionNeutral.xnb</Output>
+      <Time>2017-04-05T22:25:32.0481912-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinActionPickup.png</Source>
@@ -556,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionPickup.xnb</Output>
-      <Time>2017-04-04T15:19:57.622896-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinActionPickup.xnb</Output>
+      <Time>2017-04-05T22:25:32.0501914-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinBlack.png</Source>
@@ -565,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlack.xnb</Output>
-      <Time>2017-04-04T15:19:57.6258962-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlack.xnb</Output>
+      <Time>2017-04-05T22:25:32.0511914-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinBlack2.png</Source>
@@ -574,8 +574,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlack2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6288964-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlack2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0521915-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinBlue.png</Source>
@@ -583,8 +583,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue.xnb</Output>
-      <Time>2017-04-04T15:19:57.6328966-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue.xnb</Output>
+      <Time>2017-04-05T22:25:32.0541916-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinBlue2.png</Source>
@@ -592,8 +592,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6358968-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0551916-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinBlue3.png</Source>
@@ -601,8 +601,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue3.xnb</Output>
-      <Time>2017-04-04T15:19:57.638897-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinBlue3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0561917-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinGold.png</Source>
@@ -610,8 +610,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGold.xnb</Output>
-      <Time>2017-04-04T15:19:57.6418971-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGold.xnb</Output>
+      <Time>2017-04-05T22:25:32.0571918-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinGreen.png</Source>
@@ -619,8 +619,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGreen.xnb</Output>
-      <Time>2017-04-04T15:19:57.6448973-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGreen.xnb</Output>
+      <Time>2017-04-05T22:25:32.0581918-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinGreen2.png</Source>
@@ -628,8 +628,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGreen2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6478975-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinGreen2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0601919-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconBlack.png</Source>
@@ -637,8 +637,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconBlack.xnb</Output>
-      <Time>2017-04-04T15:19:57.6508976-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconBlack.xnb</Output>
+      <Time>2017-04-05T22:25:32.061192-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconBlue.png</Source>
@@ -646,8 +646,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconBlue.xnb</Output>
-      <Time>2017-04-04T15:19:57.6538978-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconBlue.xnb</Output>
+      <Time>2017-04-05T22:25:32.062192-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconGold.png</Source>
@@ -655,8 +655,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconGold.xnb</Output>
-      <Time>2017-04-04T15:19:57.656898-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconGold.xnb</Output>
+      <Time>2017-04-05T22:25:32.0631921-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconGreen.png</Source>
@@ -664,8 +664,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconGreen.xnb</Output>
-      <Time>2017-04-04T15:19:57.6598982-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconGreen.xnb</Output>
+      <Time>2017-04-05T22:25:32.0641922-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconRed.png</Source>
@@ -673,8 +673,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconRed.xnb</Output>
-      <Time>2017-04-04T15:19:57.6638984-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconRed.xnb</Output>
+      <Time>2017-04-05T22:25:32.0851934-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconTest.png</Source>
@@ -682,8 +682,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconTest.xnb</Output>
-      <Time>2017-04-04T15:19:57.6668986-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconTest.xnb</Output>
+      <Time>2017-04-05T22:25:32.0861934-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconTest2.png</Source>
@@ -691,8 +691,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconTest2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6688987-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconTest2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0881935-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinIconWhite.png</Source>
@@ -700,8 +700,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconWhite.xnb</Output>
-      <Time>2017-04-04T15:19:57.6728989-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinIconWhite.xnb</Output>
+      <Time>2017-04-05T22:25:32.0891936-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinRed.png</Source>
@@ -709,8 +709,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinRed.xnb</Output>
-      <Time>2017-04-04T15:19:57.6758991-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinRed.xnb</Output>
+      <Time>2017-04-05T22:25:32.0901936-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinRed2.png</Source>
@@ -718,8 +718,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinRed2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6788992-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinRed2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0911937-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinStyle3.png</Source>
@@ -727,8 +727,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinStyle3.xnb</Output>
-      <Time>2017-04-04T15:19:57.6818994-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinStyle3.xnb</Output>
+      <Time>2017-04-05T22:25:32.0921938-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinWhite.png</Source>
@@ -736,8 +736,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinWhite.xnb</Output>
-      <Time>2017-04-04T15:19:57.6848996-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinWhite.xnb</Output>
+      <Time>2017-04-05T22:25:32.0931938-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\CoinWhite2.png</Source>
@@ -745,8 +745,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinWhite2.xnb</Output>
-      <Time>2017-04-04T15:19:57.6878998-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\CoinWhite2.xnb</Output>
+      <Time>2017-04-05T22:25:32.0941939-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\DeckActionNeutral.png</Source>
@@ -754,8 +754,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\DeckActionNeutral.xnb</Output>
-      <Time>2017-04-04T15:19:57.6908999-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\DeckActionNeutral.xnb</Output>
+      <Time>2017-04-05T22:25:32.096194-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\DeckActionReserve.png</Source>
@@ -763,8 +763,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\DeckActionReserve.xnb</Output>
-      <Time>2017-04-04T15:19:57.6949002-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\DeckActionReserve.xnb</Output>
+      <Time>2017-04-05T22:25:32.097194-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Empty.png</Source>
@@ -772,8 +772,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Empty.xnb</Output>
-      <Time>2017-04-04T15:19:57.6979003-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Empty.xnb</Output>
+      <Time>2017-04-05T22:25:32.0991942-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceEmpty.png</Source>
@@ -781,8 +781,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceEmpty.xnb</Output>
-      <Time>2017-04-04T15:19:57.7019006-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceEmpty.xnb</Output>
+      <Time>2017-04-05T22:25:32.131196-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceTest.png</Source>
@@ -790,8 +790,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest.xnb</Output>
-      <Time>2017-04-04T15:19:57.7049007-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest.xnb</Output>
+      <Time>2017-04-05T22:25:32.1331961-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceTest2.png</Source>
@@ -799,8 +799,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest2.xnb</Output>
-      <Time>2017-04-04T15:19:57.7079009-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1341962-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceTest3.png</Source>
@@ -808,8 +808,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest3.xnb</Output>
-      <Time>2017-04-04T15:19:57.7119011-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest3.xnb</Output>
+      <Time>2017-04-05T22:25:32.1351962-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceTest4.png</Source>
@@ -817,8 +817,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest4.xnb</Output>
-      <Time>2017-04-04T15:19:57.7149013-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest4.xnb</Output>
+      <Time>2017-04-05T22:25:32.1361963-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\FaceTest5.png</Source>
@@ -826,8 +826,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest5.xnb</Output>
-      <Time>2017-04-04T15:19:57.7179015-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\FaceTest5.xnb</Output>
+      <Time>2017-04-05T22:25:32.1381964-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\GreenCoin.png</Source>
@@ -835,8 +835,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\GreenCoin.xnb</Output>
-      <Time>2017-04-04T15:19:57.7209016-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\GreenCoin.xnb</Output>
+      <Time>2017-04-05T22:25:32.1391964-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\JakeFaces.png</Source>
@@ -844,8 +844,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces.xnb</Output>
-      <Time>2017-04-04T15:19:57.7239018-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces.xnb</Output>
+      <Time>2017-04-05T22:25:32.1401965-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\JakeFaces2.png</Source>
@@ -853,8 +853,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces2.xnb</Output>
-      <Time>2017-04-04T15:19:57.726902-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1411966-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\JakeFaces3.png</Source>
@@ -862,8 +862,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces3.xnb</Output>
-      <Time>2017-04-04T15:19:57.7299022-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\JakeFaces3.xnb</Output>
+      <Time>2017-04-05T22:25:32.1421966-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleBaW.png</Source>
@@ -871,8 +871,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBaW.xnb</Output>
-      <Time>2017-04-04T15:19:57.7339024-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBaW.xnb</Output>
+      <Time>2017-04-05T22:25:32.1441967-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleBaWBu.png</Source>
@@ -880,8 +880,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBaWBu.xnb</Output>
-      <Time>2017-04-04T15:19:57.7369026-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBaWBu.xnb</Output>
+      <Time>2017-04-05T22:25:32.1461968-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleBuG.png</Source>
@@ -889,8 +889,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBuG.xnb</Output>
-      <Time>2017-04-04T15:19:57.7399027-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBuG.xnb</Output>
+      <Time>2017-04-05T22:25:32.1471969-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleBuGR.png</Source>
@@ -898,8 +898,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBuGR.xnb</Output>
-      <Time>2017-04-04T15:19:57.743903-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleBuGR.xnb</Output>
+      <Time>2017-04-05T22:25:32.149197-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleCard.png</Source>
@@ -907,8 +907,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleCard.xnb</Output>
-      <Time>2017-04-04T15:19:57.7479032-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleCard.xnb</Output>
+      <Time>2017-04-05T22:25:32.1501971-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleCard2.png</Source>
@@ -916,8 +916,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleCard2.xnb</Output>
-      <Time>2017-04-04T15:19:57.7509034-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleCard2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1521972-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleGR.png</Source>
@@ -925,8 +925,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleGR.xnb</Output>
-      <Time>2017-04-04T15:19:57.7539035-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleGR.xnb</Output>
+      <Time>2017-04-05T22:25:32.1531972-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleGRBa.png</Source>
@@ -934,8 +934,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleGRBa.xnb</Output>
-      <Time>2017-04-04T15:19:57.7569037-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleGRBa.xnb</Output>
+      <Time>2017-04-05T22:25:32.1551974-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleIcon.png</Source>
@@ -943,8 +943,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleIcon.xnb</Output>
-      <Time>2017-04-04T15:19:57.7609039-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleIcon.xnb</Output>
+      <Time>2017-04-05T22:25:32.1561974-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleRBa.png</Source>
@@ -952,8 +952,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleRBa.xnb</Output>
-      <Time>2017-04-04T15:19:57.7649042-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleRBa.xnb</Output>
+      <Time>2017-04-05T22:25:32.1571975-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleRBaW.png</Source>
@@ -961,8 +961,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleRBaW.xnb</Output>
-      <Time>2017-04-04T15:19:57.7679043-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleRBaW.xnb</Output>
+      <Time>2017-04-05T22:25:32.1571975-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleWBa.png</Source>
@@ -970,8 +970,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBa.xnb</Output>
-      <Time>2017-04-04T15:19:57.7719046-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBa.xnb</Output>
+      <Time>2017-04-05T22:25:32.1591976-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleWBu.png</Source>
@@ -979,8 +979,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBu.xnb</Output>
-      <Time>2017-04-04T15:19:57.7749047-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBu.xnb</Output>
+      <Time>2017-04-05T22:25:32.1601976-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleWBuBa.png</Source>
@@ -988,8 +988,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBuBa.xnb</Output>
-      <Time>2017-04-04T15:19:57.779905-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBuBa.xnb</Output>
+      <Time>2017-04-05T22:25:32.1621978-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleWBuG.png</Source>
@@ -997,8 +997,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBuG.xnb</Output>
-      <Time>2017-04-04T15:19:57.7829052-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWBuG.xnb</Output>
+      <Time>2017-04-05T22:25:32.1641979-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\NobleWRBa.png</Source>
@@ -1006,8 +1006,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWRBa.xnb</Output>
-      <Time>2017-04-04T15:19:57.7859054-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\NobleWRBa.xnb</Output>
+      <Time>2017-04-05T22:25:32.166198-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBox.png</Source>
@@ -1015,8 +1015,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox.xnb</Output>
-      <Time>2017-04-04T15:19:57.7889055-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox.xnb</Output>
+      <Time>2017-04-05T22:25:32.167198-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBox2.png</Source>
@@ -1024,8 +1024,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox2.xnb</Output>
-      <Time>2017-04-04T15:19:57.7919057-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1691982-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBox4-2.png</Source>
@@ -1033,8 +1033,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox4-2.xnb</Output>
-      <Time>2017-04-04T15:19:57.7999062-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox4-2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1701982-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBox4.png</Source>
@@ -1042,8 +1042,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox4.xnb</Output>
-      <Time>2017-04-04T15:19:57.7959059-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBox4.xnb</Output>
+      <Time>2017-04-05T22:25:32.1721983-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBoxBottom.png</Source>
@@ -1051,8 +1051,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxBottom.xnb</Output>
-      <Time>2017-04-04T15:19:57.8019063-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxBottom.xnb</Output>
+      <Time>2017-04-05T22:25:32.1731984-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBoxV2.png</Source>
@@ -1060,8 +1060,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV2.xnb</Output>
-      <Time>2017-04-04T15:19:57.8059065-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1751985-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBoxV3.png</Source>
@@ -1069,8 +1069,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV3.xnb</Output>
-      <Time>2017-04-04T15:19:57.8099067-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV3.xnb</Output>
+      <Time>2017-04-05T22:25:32.1761986-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBoxv4-1.png</Source>
@@ -1078,8 +1078,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxv4-1.xnb</Output>
-      <Time>2017-04-04T15:19:57.8129069-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxv4-1.xnb</Output>
+      <Time>2017-04-05T22:25:32.1801988-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerBoxV5.png</Source>
@@ -1087,8 +1087,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV5.xnb</Output>
-      <Time>2017-04-04T15:19:57.8229075-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerBoxV5.xnb</Output>
+      <Time>2017-04-05T22:25:32.1771986-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\PlayerMessage.png</Source>
@@ -1096,8 +1096,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerMessage.xnb</Output>
-      <Time>2017-04-04T15:19:57.8279078-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\PlayerMessage.xnb</Output>
+      <Time>2017-04-05T22:25:32.1811988-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\Selector.png</Source>
@@ -1105,8 +1105,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Selector.xnb</Output>
-      <Time>2017-04-04T15:19:57.8309079-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\Selector.xnb</Output>
+      <Time>2017-04-05T22:25:32.1821989-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\TitleScreen.png</Source>
@@ -1114,8 +1114,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen.xnb</Output>
-      <Time>2017-04-04T15:19:57.8329081-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen.xnb</Output>
+      <Time>2017-04-05T22:25:32.184199-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\TitleScreen2.png</Source>
@@ -1123,8 +1123,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen2.xnb</Output>
-      <Time>2017-04-04T15:19:57.8359082-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1881992-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\TitleScreen3.png</Source>
@@ -1132,8 +1132,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen3.xnb</Output>
-      <Time>2017-04-04T15:19:57.8379083-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\TitleScreen3.xnb</Output>
+      <Time>2017-04-05T22:25:32.1891993-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\VictoryMenuBar.png</Source>
@@ -1141,8 +1141,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBar.xnb</Output>
-      <Time>2017-04-04T15:19:57.8409085-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBar.xnb</Output>
+      <Time>2017-04-05T22:25:32.1901994-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\VictoryMenuBars.png</Source>
@@ -1150,8 +1150,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBars.xnb</Output>
-      <Time>2017-04-04T15:19:57.8439087-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBars.xnb</Output>
+      <Time>2017-04-05T22:25:32.1911994-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\VictoryMenuBox.png</Source>
@@ -1159,8 +1159,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBox.xnb</Output>
-      <Time>2017-04-04T15:19:57.8469089-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBox.xnb</Output>
+      <Time>2017-04-05T22:25:32.1931995-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Textures\VictoryMenuBox2.png</Source>
@@ -1168,8 +1168,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBox2.xnb</Output>
-      <Time>2017-04-04T15:19:57.849909-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Textures\VictoryMenuBox2.xnb</Output>
+      <Time>2017-04-05T22:25:32.1941996-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\Action1.wav</Source>
@@ -1177,8 +1177,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Action1.xnb</Output>
-      <Time>2017-04-04T15:20:13.2757913-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Action1.xnb</Output>
+      <Time>2017-04-05T22:25:31.9251842-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\bigmac4029__1cards.wav</Source>
@@ -1186,8 +1186,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\bigmac4029__1cards.xnb</Output>
-      <Time>2017-04-04T15:20:13.2787915-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\bigmac4029__1cards.xnb</Output>
+      <Time>2017-04-05T22:25:31.9661865-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\ButtonClick.wav</Source>
@@ -1195,8 +1195,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\ButtonClick.xnb</Output>
-      <Time>2017-04-04T15:20:13.2817917-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\ButtonClick.xnb</Output>
+      <Time>2017-04-05T22:25:31.9261843-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\rhodesmas__action-02.wav</Source>
@@ -1204,8 +1204,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\rhodesmas__action-02.xnb</Output>
-      <Time>2017-04-04T15:20:13.2847919-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\rhodesmas__action-02.xnb</Output>
+      <Time>2017-04-05T22:25:31.9701868-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\Success.wav</Source>
@@ -1213,8 +1213,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Success.xnb</Output>
-      <Time>2017-04-04T15:20:13.287792-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Success.xnb</Output>
+      <Time>2017-04-05T22:25:31.9361848-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\Success2.wav</Source>
@@ -1222,8 +1222,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Success2.xnb</Output>
-      <Time>2017-04-04T15:20:13.2897921-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Success2.xnb</Output>
+      <Time>2017-04-05T22:25:31.9401851-07:00</Time>
     </Item>
     <Item>
       <Source>Resources\Audio\Tick.wav</Source>
@@ -1231,8 +1231,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Tick.xnb</Output>
-      <Time>2017-04-04T15:20:13.2927923-07:00</Time>
+      <Output>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\Resources\Audio\Tick.xnb</Output>
+      <Time>2017-04-05T22:25:31.9411851-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -1241,10 +1241,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\Andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2Content\</RootDirectory>
-      <LoggerRootDirectory>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\</LoggerRootDirectory>
-      <IntermediateDirectory>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

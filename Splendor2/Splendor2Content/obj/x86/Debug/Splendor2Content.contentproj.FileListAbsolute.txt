@@ -1,1 +1,2 @@
 c:\users\andrey\documents\visual studio 2012\Projects\Splendor2\Splendor2\Splendor2Content\obj\x86\Debug\Splendor2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Andrey\Documents\Visual Studio 2012\Projects\Splendor\Splendor2\Splendor2Content\obj\x86\Debug\Splendor2Content.contentprojResolveAssemblyReference.cache

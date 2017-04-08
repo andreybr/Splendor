@@ -9,8 +9,8 @@ namespace Splendor
 {
     class MyLibrary
     {
-        public static int nWindowPixelWidth = 1100;
-        public static int nWindowPixelHeight = 780;
+        public static int nWindowPixelWidth = 720;
+        public static int nWindowPixelHeight = 540;
 
         public static int nMaxHandSize = 3;
         public int nMaxCoins = 10;
